@@ -1,0 +1,50 @@
+
+Task 1:
+pwd
+
+Task 2:
+ls 
+
+Task 3: 
+cd national/politics
+
+Task 4:
+ls
+
+Task 5:
+mkdir elections
+
+Task 6: 
+cd elections
+
+Task 7:
+touch candidates.txt
+touch issues.txt
+
+Task 8:
+cd ../../../
+pwd
+
+Task 9:
+mkdir business
+cd business
+
+Task 10:
+ls
+
+Task 11:
+mkdir startups
+cd startups
+
+Task 12:
+cd ../
+mkdir startups/disruptors
+
+Task 13:
+touch startups/disruptors/tech.txt
+touch startups/disruptors/design.txt
+touch startups/disruptors/education.txt
+
+Task 14:
+cd ..
+pwd
